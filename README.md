@@ -12,7 +12,7 @@ The youngest player rolls a six-sided dice. They move their piece the number of 
 
 If the player lands on a space, the organiser explains what the procedure means.
 
-If the player lands on a ❓, they pick up a card of the same colour and read out the information on it.  If the card has instructions, the player must follow them. 
+If the player lands on a ❓, they pick up a card of the same colour and read out the information on it.  If the card has instructions, the player must follow them. The card must be returned to the bottom of the deck.
 
 Play proceeds in a clockwise direction.
 
