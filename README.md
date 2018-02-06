@@ -18,6 +18,8 @@ Play proceeds in a clockwise direction.
 
 The winner is the first player to have their act implemented.
 
+[Read the full instructions](Instructions.md).
+
 ## The Board
 
 ![A game board](https://raw.githubusercontent.com/edent/Legislate/master/Board/Legislate.png)
