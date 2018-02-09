@@ -30,8 +30,7 @@ This game is available under the [Open Government Licence v3.0](https://www.nati
 
 ## Disclaimer
 
-Probably should add something here :-)
-
+This game was designed as a training tool for UK civil servants. Nothing in the game or the guidance on how to play it should be taken to describe actual events or to represent UK government policy. For official guidance on the process for UK government bills, see the [Guide to Making Legislation](https://www.gov.uk/government/publications/guide-to-making-legislation).
 ## History
 
 Originally created by [Hayley Rogers](https://twitter.com/goodlawgeek) for the [Office of the Parliamentary Counsel](https://www.gov.uk/government/organisations/office-of-the-parliamentary-counsel).
