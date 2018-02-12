@@ -24,6 +24,10 @@ The winner is the first player to have their act implemented.
 
 ![A game board](https://raw.githubusercontent.com/edent/Legislate/master/Board/Legislate.png)
 
+## Printable Cards
+
+You can [print off the cards for your own use](https://github.com/alphagov/Legislate/raw/master/Cards/Cards%20For%20Printing.pdf). Print the PDF onto plain paper, fold along the centre line, then cut into strips.
+
 ## Remix
 
 This game is available under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) which is compatible with [Creative Commons Attribution License 4.0](https://creativecommons.org/licenses/by/4.0/).  This means you are free to remix and adapt the game for your legislative process.
