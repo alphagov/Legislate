@@ -49,3 +49,8 @@ This digital version created by [Terence Eden](https://shkspr.mobi/blog/).
 [![This lunchtime some of our Research Assistants played 'Legislate?!', the Office of the Parliamentary Counsel's board game! @cabinetofficeuk](https://raw.githubusercontent.com/alphagov/Legislate/master/Resources/thumbs2.jpeg)](https://twitter.com/Law_Commission/status/836207148384325633)
 
 [![Nigel Rendell from Office of Parliamentary Counsel got us playing a good game called 'legislate!' for #ParliamentWeek](https://raw.githubusercontent.com/alphagov/Legislate/master/Resources/thumbs3.jpeg)](https://twitter.com/CUSocS/status/535818672271806464)
+
+[!["Legislate?!" board game designed by #GoodLaw team at @RHCabinetOffice. Great idea to interactively explain process.](https://raw.githubusercontent.com/alphagov/Legislate/master/Resources/thumbs4.jpeg)](https://twitter.com/PolStudiesAssoc/status/499138361807101952)
+
+[![.@alicepilia takes participants through Legislate?! board game  #ParliamentWeek](https://raw.githubusercontent.com/alphagov/Legislate/master/Resources/thumbs5.jpeg)](https://twitter.com/cabinetofficeuk/status/401376450173239296)
+
