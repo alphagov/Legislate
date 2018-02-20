@@ -35,8 +35,17 @@ This game is available under the [Open Government Licence v3.0](https://www.nati
 ## Disclaimer
 
 This game was designed as a training tool for UK civil servants. Nothing in the game or the guidance on how to play it should be taken to describe actual events or to represent UK government policy. For official guidance on the process for UK government bills, see the [Guide to Making Legislation](https://www.gov.uk/government/publications/guide-to-making-legislation).
+
 ## History
 
 Originally created by [Hayley Rogers](https://twitter.com/goodlawgeek) for the [Office of the Parliamentary Counsel](https://www.gov.uk/government/organisations/office-of-the-parliamentary-counsel).
 
 This digital version created by [Terence Eden](https://shkspr.mobi/blog/).	
+
+## Photos
+
+[![Learning can be fun! Lunchtime  game of "Legislate" with parliamentary counsel to learn about how legislation is made. #ParliamentWeek](https://raw.githubusercontent.com/alphagov/Legislate/master/Resources/thumbs1.jpeg)](https://twitter.com/1ParliCounsel/status/930418090130792448)
+
+[![This lunchtime some of our Research Assistants played 'Legislate?!', the Office of the Parliamentary Counsel's board game! @cabinetofficeuk](https://raw.githubusercontent.com/alphagov/Legislate/master/Resources/thumbs2.jpeg)](https://twitter.com/Law_Commission/status/836207148384325633)
+
+[![Nigel Rendell from Office of Parliamentary Counsel got us playing a good game called 'legislate!' for #ParliamentWeek](https://raw.githubusercontent.com/alphagov/Legislate/master/Resources/thumbs3.jpeg)](https://twitter.com/CUSocS/status/535818672271806464)
