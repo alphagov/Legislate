@@ -4,6 +4,8 @@
 
 ![A hand-drawn board game](https://pbs.twimg.com/media/DOmCvMPWsAAQJ1b.jpg:medium)	
 
+[Read all about the Parliamentary Counsel team who created the game](https://www.gov.uk/government/speeches/the-legislation-game).
+
 ## How To Play
 
 An organiser runs the game, deciphers the acronyms, and explains the legal procedues.
